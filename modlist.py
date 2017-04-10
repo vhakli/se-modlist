@@ -2,7 +2,7 @@
 	This program will print you a list of mods that you 
 	can easily paste to the dedicated server software
 	You need a Steam Web API key from https://steamcommunity.com/dev/apikey
-	This code does not take any inputs, you must code
+	This code does not take any inputs, you must hardcode the values below
 
 	Created by Ville Häkli 2017
 	https://ville.is
